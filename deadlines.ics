@@ -206,11 +206,99 @@ DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 END:VEVENT
 BEGIN:VEVENT
-UID:1bd08bd9-5df1-56fa-83e4-fb95383d9a64@nus-mem-s1.local
-DTSTAMP:20261011T132417Z
-SUMMARY:提醒｜联系AR5323老师确认11/7请假
-DESCRIPTION:已提前请假，11月7日参加BMS5416 Final Test；此为建议提醒日，不是老师规定日期。
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
+UID:capstone-briefing-20260911@nus-mem-s1.local
+DTSTAMP:20261011T140000Z
+SUMMARY:MEM5103 Capstone｜Student Briefing (Zoom)
+DESCRIPTION:Student briefing at 12:00 noon via Zoom, per briefing slides.
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+END:VEVENT
+BEGIN:VEVENT
+UID:capstone-group-deadline-20260917@nus-mem-s1.local
+DTSTAMP:20261011T140000Z
+SUMMARY:MEM5103 Capstone｜Form group / Defer notification deadline
+DESCRIPTION:Form a group of 5, review offered projects, submit questions on project details, and notify SCALE by this date if deferring to the Aug 2027 run.
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+END:VEVENT
+BEGIN:VEVENT
+UID:capstone-own-sponsor-20260928@nus-mem-s1.local
+DTSTAMP:20261011T140000Z
+SUMMARY:MEM5103 Capstone｜Own project sponsor details deadline (if applicable)
+DESCRIPTION:If sourcing your own project sponsor, provide the company and full project details by this date.
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+END:VEVENT
+BEGIN:VEVENT
+UID:capstone-ranking-videos-20261001@nus-mem-s1.local
+DTSTAMP:20261011T140000Z
+SUMMARY:MEM5103 Capstone｜Rank 3 projects + videos/CVs deadline
+DESCRIPTION:Select and rank three projects; submit one 5–10 minute pre-interview video for each choice and CVs for all group members. No changes to project ranking after the deadline. Company interviews are expected during Oct–Nov; exact interview dates to be arranged by SCALE.
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+END:VEVENT
+BEGIN:VEVENT
+UID:capstone-allocation-window-20261130@nus-mem-s1.local
+DTSTAMP:20261011T140000Z
+SUMMARY:MEM5103 Capstone｜Project allocation & kick-off window (TBC)
+DESCRIPTION:Briefing indicates project allocation and online kick-off meeting occur from late November through December 2026. This is a window marker, not a confirmed meeting date.
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+END:VEVENT
+BEGIN:VEVENT
+UID:capstone-start-20270111@nus-mem-s1.local
+DTSTAMP:20261011T140000Z
+SUMMARY:MEM5103 Capstone｜24-week project starts
+DESCRIPTION:Project period: 11 Jan 2027 to 25 Jun 2027. Students are required to be physically present in Singapore and maintain regular communication with team and supervisors.
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+END:VEVENT
+BEGIN:VEVENT
+UID:capstone-interim-20270331@nus-mem-s1.local
+DTSTAMP:20261011T140000Z
+SUMMARY:MEM5103 Capstone｜Interim Report DDL
+DESCRIPTION:Submit 10–20 page academic report to NUS Supervisor, excluding appendices. Interim Report weightage: 30%.
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+END:VEVENT
+BEGIN:VEVENT
+UID:capstone-final-report-slides-20270618@nus-mem-s1.local
+DTSTAMP:20261011T140000Z
+SUMMARY:MEM5103 Capstone｜Final Report + NUS Presentation Slides DDL
+DESCRIPTION:Submit the 50-page final academic report (excluding appendices) and final presentation slides to NUS. Final Report and Final Presentation jointly make up the remaining 70% of assessment; source slide split is 70% report / 30% presentation within that component.
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+END:VEVENT
+BEGIN:VEVENT
+UID:capstone-final-week-20270621@nus-mem-s1.local
+DTSTAMP:20261011T140000Z
+SUMMARY:MEM5103 Capstone｜Final presentation & company deliverables window
+DESCRIPTION:Window stated in briefing: 21–25 June 2027. NUS final presentation (graded), present deliverables to company, and project showcase. Exact presentation slot and showcase details to be announced.
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270626
+END:VEVENT
+BEGIN:VEVENT
+UID:capstone-project-end-20270625@nus-mem-s1.local
+DTSTAMP:20261011T140000Z
+SUMMARY:MEM5103 Capstone｜Project period ends
+DESCRIPTION:End of the 24-week project period.
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+END:VEVENT
+BEGIN:VEVENT
+UID:capstone-results-window-20270801@nus-mem-s1.local
+DTSTAMP:20261011T140000Z
+SUMMARY:MEM5103 Capstone｜Results / online conferment window (TBC)
+DESCRIPTION:Briefing indicates August 2027; exact date not provided. Online conferment applies if MEM5103 is your last course.
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+END:VEVENT
+BEGIN:VEVENT
+UID:capstone-commencement-window-20280701@nus-mem-s1.local
+DTSTAMP:20261011T140000Z
+SUMMARY:MEM5103 Capstone｜Commencement window (TBC)
+DESCRIPTION:Briefing indicates July 2028; exact ceremony date not provided, and applies if MEM5103 is your last course.
+DTSTART;VALUE=DATE:20280701
+DTEND;VALUE=DATE:20280702
 END:VEVENT
 END:VCALENDAR
