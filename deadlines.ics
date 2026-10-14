@@ -86,14 +86,6 @@ DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 END:VEVENT
 BEGIN:VEVENT
-UID:762fd45b-d989-5277-8dec-b3ed35fdf623@nus-mem-s1.local
-DTSTAMP:20261011T132417Z
-SUMMARY:MEM5102 研究方法｜Test 2｜20%
-DESCRIPTION:个人考试，时长1小时；具体开始时间未确认。
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-END:VEVENT
-BEGIN:VEVENT
 UID:6df9674a-3bfa-5646-b868-cc346b237691@nus-mem-s1.local
 DTSTAMP:20261011T132417Z
 SUMMARY:AR5323 建筑｜WELL Building Quiz｜10%
@@ -300,5 +292,13 @@ SUMMARY:MEM5103 Capstone｜Commencement window (TBC)
 DESCRIPTION:Briefing indicates July 2028; exact ceremony date not provided, and applies if MEM5103 is your last course.
 DTSTART;VALUE=DATE:20280701
 DTEND;VALUE=DATE:20280702
+END:VEVENT
+BEGIN:VEVENT
+UID:762fd45b-d989-5277-8dec-b3ed35fdf623@nus-mem-s1.local
+DTSTAMP:20261014T080000Z
+SUMMARY:MEM5102 研究方法｜Test 2｜20%
+DESCRIPTION:Week 11, during class. Duration: 1 hour. Regular class is Wednesday 15:00–18:00 at UTown EC-02-18. Instructor's notice says 27/28 Oct; listed on 28 Oct based on the Wednesday class schedule. Exact test start time not stated.
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
 END:VEVENT
 END:VCALENDAR
