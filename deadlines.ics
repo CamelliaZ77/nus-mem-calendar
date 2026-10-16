@@ -71,17 +71,25 @@ DTEND;VALUE=DATE:20261010
 END:VEVENT
 BEGIN:VEVENT
 UID:fecea5fa-7e16-52de-9d90-3f664ea535f8@nus-mem-s1.local
-DTSTAMP:20261011T132417Z
-SUMMARY:MEM5102 研究方法｜Reflection Assignment DDL｜10%
-DESCRIPTION:个人设定的完成日期，不是老师公布的正式DDL。
+DTSTAMP:20261016T023000Z
+SUMMARY:MEM5102 研究方法｜Reflection Assignment（第一部分）
+DESCRIPTION:个人作业，总占比10%。用户安排于10月12日完成第一部分；这是个人计划，不是老师公布的正式DDL。
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
+END:VEVENT
+BEGIN:VEVENT
+UID:mem5102-reflection-part2-20261018@nus-mem-s1.local
+DTSTAMP:20261016T023000Z
+SUMMARY:MEM5102 研究方法｜Reflection Assignment（第二部分）
+DESCRIPTION:个人作业，总占比10%。用户安排于10月18日完成第二部分；这是个人计划，不是老师公布的正式DDL。两部分合计10%，未拆分单项比例。
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
 END:VEVENT
 BEGIN:VEVENT
 UID:b91e271a-c93f-50fa-a13d-bab4571e89af@nus-mem-s1.local
 DTSTAMP:20261011T132417Z
 SUMMARY:BMS5416 文化｜TCP Write-up + Worksheet DDL｜书面合计28%
-DESCRIPTION:小组作业；Case Write-up及Worksheet共同属于书面部分28%。
+DESCRIPTION:小组作业；Case Write-up（1500 words）和Case Development Worksheet（1250 words）均按2026年10月16日提交；书面部分合计28%。
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 END:VEVENT
@@ -295,10 +303,17 @@ DTEND;VALUE=DATE:20280702
 END:VEVENT
 BEGIN:VEVENT
 UID:762fd45b-d989-5277-8dec-b3ed35fdf623@nus-mem-s1.local
-DTSTAMP:20261014T080000Z
+DTSTAMP:20261016T023000Z
 SUMMARY:MEM5102 研究方法｜Test 2｜20%
-DESCRIPTION:Week 11, during class. Duration: 1 hour. Regular class is Wednesday 15:00–18:00 at UTown EC-02-18. Instructor's notice says 27/28 Oct; listed on 28 Oct based on the Wednesday class schedule. Exact test start time not stated.
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
+DESCRIPTION:个人考试；2026年10月28日15:00–16:00。Week 5–10材料，含inferential statistics作业。
+DTSTART;TZID=Asia/Singapore:20261028T150000
+DTEND;TZID=Asia/Singapore:20261028T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:pp5269m-assignment2-20261029@nus-mem-s1.local
+DTSTAMP:20261016T023000Z
+SUMMARY:PP5269M 经济｜Assignment 2（个人）｜10%
+DESCRIPTION:用户确认日期为10月29日，约19:45开始。结束时间/考试时长未提供；课程大纲未列出原始DDL。
+DTSTART;TZID=Asia/Singapore:20261029T194500
 END:VEVENT
 END:VCALENDAR
